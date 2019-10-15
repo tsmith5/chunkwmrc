@@ -143,3 +143,6 @@ chunkc tiling::rule --owner Finder --state float &
 chunkc tiling::rule --owner qemu-system-x86_64 --state float & 
 chunkc tiling::rule --owner \"Cisco AnyConnect Secure Mobility Client\" --state float &
 chunkc tiling::rule --owner \"Microsoft Outlook\" --name \"Reminder\" --state float &
+chunkc tiling::rule --owner \"Calculator\" --state float &
+chunkc tiling::rule --owner \"AnypointStudio\" --name Problem --state float &
+chunkc tiling::rule --owner \"AnypointStudio\" --name Errors --state float &
